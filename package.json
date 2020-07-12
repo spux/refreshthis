@@ -1,6 +1,6 @@
 {
   "name": "refreshthis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "refresh this",
   "main": "index.js",
   "scripts": {
